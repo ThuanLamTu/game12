@@ -50,7 +50,7 @@
 
 | Order |         Name          |     ID      |                  Email                  |                       Github account                        |                              Facebook                              |
 | :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
-|   1   | Nguyen Hong Son | ITCSIU21214 |  ITDSIU21117@student.hcmiu.edu.vn | [Son-SDT](https://github.com/Son-SDT) | [Son Son](https://www.facebook.com/nguyenhongson0305outlook) |
+|   1   | Le Nguyen Van Phat | ITCSIU21214 |  ITCSIU21214@student.hcmiu.edu.vn | [Vanphat0211](https://github.com/Vanphat0211) | [Van Phat](https://www.facebook.com/profile.php?id=100016877142624) |
 |   2   | Nguyen Nhat Khiem | ITDSIU21091 |  ITDSIU21091@student.hcmiu.edu.vn | [Khim3](https://github.com/Khim3) | [Khiem Nguyen](https://www.facebook.com/khiem.nguyen.042) |
 |   3   | Nguyen Tri Tin | ITDSIU21123 |  ITDSIU21123@student.hcmiu.edu.vn | [MicroGix](https://github.com/MicroGix) | [Tin Nguyen](https://www.facebook.com/tinnguyen105/) |
 |   4   | Le Thi Thuy Nga | ITDSIU21024 | ITDSIU21024@student.hcmiu.edu.vn | [Schrrodinger](https://github.com/Schrrodinger) | [Thuy Nga](https://www.facebook.com/profile.php?id=100032005854236) |
