@@ -49,11 +49,11 @@
 ## Team Members 
 
 | Order |         Name          |     ID      |                  Email                  |                       Github account                        |                              Facebook                              |
-| :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
+| :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: 
 |   1   | Le Nguyen Van Phat | ITCSIU21214 |  ITCSIU21214@student.hcmiu.edu.vn | [Vanphat0211](https://github.com/Vanphat0211) | [Van Phat](https://www.facebook.com/profile.php?id=100016877142624) |
-|   2   | Nguyen Nhat Khiem | ITDSIU21091 |  ITDSIU21091@student.hcmiu.edu.vn | [Khim3](https://github.com/Khim3) | [Khiem Nguyen](https://www.facebook.com/khiem.nguyen.042) |
-|   3   | Nguyen Tri Tin | ITDSIU21123 |  ITDSIU21123@student.hcmiu.edu.vn | [MicroGix](https://github.com/MicroGix) | [Tin Nguyen](https://www.facebook.com/tinnguyen105/) |
-|   4   | Le Thi Thuy Nga | ITDSIU21024 | ITDSIU21024@student.hcmiu.edu.vn | [Schrrodinger](https://github.com/Schrrodinger) | [Thuy Nga](https://www.facebook.com/profile.php?id=100032005854236) |
+|   2   | Ho Viet Tan | ITCSIU21231 |  ITCSIU21232@student.hcmiu.edu.vn | [viettan98](https://github.com/viettan98) | [V Tan Hoang](https://www.facebook.com/tan.n.0102) |
+|   3   | Thuan Lam Tu | ITCSIU21243 |  ITCSIU21243@student.hcmiu.edu.vn | [ThuanLamTu](https://github.com/ThuanLamTu) | [Thuan Lam Tu](https://www.facebook.com/profile.php?id=100017217782698) |
+|   4   | Nguyen Duy Anh | ITITIU21157 | ITITIU21157@student.hcmiu.edu.vn | [DuyAnh1209](https://github.com/DuyAnh1209) | [Duy Anh](https://www.facebook.com/profile.php?id=100092640750761&mibextid=LQQJ4d) |
 
 
 <!-- INSTALLATION -->
