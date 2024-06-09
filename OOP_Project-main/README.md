@@ -76,10 +76,10 @@ We are working with this game as our project lab of Object Oriented Programming 
 ## Task Allocation 
 | Order | Task                                  |  Person   | Contribution (%) |
 | :---- |:--------------------------------------| :-------: | :----------: |
-| 1     | Set up controllers, set up SFX, tester, prepare presentation slide | Hong Son  |      25      |
-| 2     | Develop first version, build entities, create UML, prepare report | Nhat Khiem |      25      |
-| 3     | GitHub repository host, design UI, design game mechanic, prepare report | Tri Tin |      25      |
-| 4     | Develop first version, design UI, create UML, prepare report | Thuy Nga |      25      |
+| 1     | Set up controllers, set up SFX, tester, prepare presentation slide | Van Phat  |      25      |
+| 2     | Develop first version, build entities, create UML, prepare report | Viet Tan |      25      |
+| 3     | GitHub repository host, design UI, design game mechanic, prepare report | Duy Anh |      25      |
+| 4     | Develop first version, design UI, create UML, prepare report | Thuan Lam Tu |      25      |
 
 <!-- SPECIFICATIONS -->
 # Specifications 
